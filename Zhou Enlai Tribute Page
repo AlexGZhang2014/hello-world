@@ -1,0 +1,61 @@
+.title {
+  font-family: Helvetica;
+  text-align: center;
+}
+.subtitle {
+  font-style: italic;
+  font-family: Arial;
+  text-align: center;
+}
+img {
+  height: 800px;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-color: rgb(80, 200, 235);
+}
+p {
+  font-family: Arial;
+}
+.description {
+  text-align: center;
+}
+
+<body>
+  <h1 class="title"><b>Zhou Enlai</b></h1>
+<h3 class="subtitle">The first prime minister of the People's Republic of China</h3>
+<img src="http://www.chinadelightours.com/UploadFiles/image/zhouenlai.jpg" alt="Headshot of Zhou Enlai">
+</img>
+<p class="description">Zhou served with Chairman Mao Zedong and was instrumental in the Communist Party's rise to power.</p>
+<p><b>Timeline of significant events in Zhou Enlai's life:</b></p>
+<ul>
+  <li>1898 - Born in Huai'an, Jiangsu province</li>
+  <li>1910 - Zhou was adopted by his uncle Zhou Yigeng and moved to Shenyang, Manchuria</li>
+  <li>1917 - Graduated from Nankai Middle School, where he excelled in his studies and extracurricular activities and was 1 of 5 students honored at his school's commencement ceremony</li>
+  <li>Spring 1919 - Returned to China after failing to gain entry into two elite Japanese universities and became disillusioned with the Japanese culture that discriminated against the Chinese</li>
+  <li>Fall 1919 - Helped establish the "Awakening Society" at Nankai University for the purpose of spreading awareness of policies and entities that were "incompatible with progress in current times, such as militarism, the bourgeoisie, etc." to the Chinese people and promoting abolition or reformation of these</li>
+  <li>1920 - Was arrested for participation in the May Fourth Movement, a group of student demonstrations in Tianjin from 1917-1921</li>
+  <li>1924 - Participated in the national revolution in China led by Sun Yat-sen of the Nationalist Party</li>
+  <li>1925 - Married Deng Yingchao, student activist who was the youngest member of the Awakening Society</li>
+  <li>1927 - Became director of the military department of the Central Committee of the Chinese Communist Party (CCP)</li>
+  <li>1931 - Moved to Jiangxi and succeeded Mao Zedong's position as political commissar of the Red Army</li>
+  <li>1934-1935 - Moved to the Shaanxi province in northern China during the Long March</li>
+  <li>1936 - Facilitated the formation of an alliance between the CCP and the Nationalist Party to build a united front against the Japanese by negotiating the release of Chiang Kai-Shek, leader of the Nationalist Party</li>
+  <li>1937-1945 - Participated in the Sino-Japanese War as the CCP's chief representative to the Nationalist Party</li>
+  <li>1946 - Led unsuccessful peace negotiations with the Nationalist Party after the surrender of Japan but successfully influenced liberal politicians and intellectuals who were disenchanted with the Nationalist Party to support the CCP</li>
+  <li>1949 - Appointed as the 1st prime minister of the People's Republic of China</li>
+  <li>1950 - Signed a 30-year Chinese-Soviet treaty of alliance in Moscow</li>
+  <li>1954 - Attended the Geneva Conference and helped negotiate the final agreement after the Franco-Vietnamese War</li>
+  <li>1955 - Offered China’s support to Asian nonaligned nations at the Afro-Asian conference in Bandung, Indonesia</li>
+  <li>1956 - Elected as one of the four vice chairmen of the CCP</li>
+  <li>1966-1976 - Played a key role in exercising restraints on extremists and carrying out Mao Zedong's policies and propaganda during the Cultural Revolution</li>
+  <li>1971 - Met with President Nixon's security advisor Henry Kissinger to prepare for the meeting between Mao Zedong and U.S. President Richard Nixon that occurred in 1972</li>
+  <li>1976 - Died from metastatic bladder cancer</li>
+</ul>
+<p>"Mao dominated any gathering; Zhou suffused it. Mao's passion strove to overwhelm opposition; Zhou's intellect would seek to persuade or outmaneuver it. Mao was sardonic; Zhou penetrating. Mao thought of himself as a philosopher; Zhou saw his role as an administrator or a negotiator. Mao was eager to accelerate history; Zhou was content to exploit its currents."
+  —Former U.S. Secretary of State Henry Kissinger, <i>On China</i> (2011)</p>
+<h4>If you want to learn more about Zhou's amazing achievements, you can read more on his <a href="https://en.wikipedia.org/wiki/Zhou_Enlai">Wikipedia page</a>.</h4>
+</body>
